@@ -96,6 +96,12 @@ body {
 /*	font-family: "Open Sans", sans-serif;*/
 }
 
+html, body {
+    max-width: 100%;
+ /*   overflow-x: hidden;
+    overflow-y: scroll;*/
+}
+
 .contact-box {
 	border: solid 3px;
 	border-color: #a1905e;
@@ -313,7 +319,7 @@ a {
 hr {
 	color: #a1905e;
 	line-height: 20px;
-	width: 1055px;
+	width: 90%;
 	border: solid 2px;
 	margin-top:  110px;
 	margin-left: 15px;
@@ -445,7 +451,7 @@ footer h3 {
 .the-team hr {
 	margin-top: 20px;
 	border: solid 1px;
-	width: 1055px;
+	width: 90%;
 	margin-left: 0px
 }
 
@@ -592,6 +598,10 @@ blockquote img {
     background: #a1905e;
     border-color: #807247;
 }
+
+	.navbar-toggle .icon-bar {
+		 background-color: #fff;
+	}
 }
 
 
