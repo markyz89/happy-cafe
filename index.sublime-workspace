@@ -1,0 +1,513 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"make",
+				"makeGrid"
+			],
+			[
+				"input",
+				"input_width"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"font-st",
+				"font-style"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"wp",
+				"wp_enqueue_script"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"padding",
+				"padding"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"margi",
+				"margin-left"
+			],
+			[
+				"border-r",
+				"border-radius"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"backg",
+				"background-size"
+			],
+			[
+				"backgrou",
+				"background-color"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"paddin",
+				"padding-top"
+			],
+			[
+				"background",
+				"background-repeat"
+			],
+			[
+				"lapiz",
+				"lapizzeria_widgets"
+			],
+			[
+				"te",
+				"text-decoration-style"
+			],
+			[
+				"hea",
+				"header\tTag"
+			],
+			[
+				"paddi",
+				"padding"
+			],
+			[
+				"the_post",
+				"get_the_post_thumbnail_url"
+			],
+			[
+				"background-c",
+				"background-color"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"table",
+				"table-cell"
+			],
+			[
+				"container",
+				"container"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"bo",
+				"box-sizing"
+			],
+			[
+				"contai",
+				"container_class"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"add",
+				"add_action"
+			],
+			[
+				"nu",
+				"number_2"
+			],
+			[
+				"number",
+				"number_1"
+			],
+			[
+				"border-top-",
+				"border-top-color"
+			],
+			[
+				"im",
+				"important"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"ma",
+				"margin-left"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"text-tr",
+				"text-transform"
+			],
+			[
+				"show",
+				"show_categories"
+			],
+			[
+				"col-md",
+				"col-md-12"
+			],
+			[
+				"a",
+				"alt\tAttr"
+			],
+			[
+				"cup",
+				"cup"
+			],
+			[
+				"bor",
+				"border-width"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"fot",
+				"font-size"
+			],
+			[
+				"m",
+				"max-width"
+			],
+			[
+				"shadow",
+				"box-shadow"
+			],
+			[
+				"ali",
+				"align-items"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"class",
+				"classmate"
+			],
+			[
+				"Mark",
+				"mark"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 588.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"packa",
+				"Package Control: Disable Package"
+			]
+		],
+		"width": 618.0
+	},
+	"console":
+	{
+		"height": 539.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Mark/Desktop/Websites/Craft beer/style.css",
+		"/C/Users/Mark/Desktop/Websites/Craft beer/index.html",
+		"/C/Users/Mark/Desktop/Websites/Mark - Happy Cafe/Mark Happy Cafe - coding/need-coffee.html",
+		"/C/wamp64/www/vegan-cafe/wp-content/themes/divi-child/header.php",
+		"/C/Users/Mark/Desktop/Websites/Mark - Happy Cafe/Mark Happy Cafe - coding/style.css",
+		"/C/Users/Mark/Downloads/style (1).css",
+		"/C/wamp64/www/vegan-cafe/wp-content/themes/divi-child/style.css",
+		"/C/Users/Mark/Desktop/Websites/Mark - Happy Cafe/Mark Happy Cafe - coding/index.html",
+		"/C/Users/Mark/Desktop/Websites/Mark - Happy Cafe/Mark Happy Cafe - coding/about.html",
+		"/C/Users/Mark/Documents/Udacity/Final project/project-pixel-art-maker-starter-master/project-pixel-art-maker-starter-master/designs.js",
+		"/C/wamp64/www/vegan-cafe/.htaccess",
+		"/C/Users/Mark/Documents/Udacity/Final project/project-pixel-art-maker-starter-master/project-pixel-art-maker-starter-master/index.html",
+		"/C/Users/Mark/Documents/Udacity/Final project/project-pixel-art-maker-starter-master/project-pixel-art-maker-starter-master/styles.css",
+		"/C/wamp64/www/portfolio/.htaccess",
+		"/C/wamp64/www/vegan-cafe/wp-content/themes/Divi/header.php",
+		"/C/wamp64/www/vegan-cafe/wordpress/.htaccess",
+		"/C/Users/Mark/Downloads/jQuery-Sample-Site/jQuery Sample Site/index.html",
+		"/C/Users/Mark/Downloads/jQuery-Sample-Site/jQuery Sample Site/app.js",
+		"/C/Users/Mark/Documents/Udacity/fend-animal-trading-cards-master/fend-animal-trading-cards-master/card.html",
+		"/C/Users/Mark/Documents/Udacity/fend-animal-trading-cards-master/fend-animal-trading-cards-master/styles.css",
+		"/C/Users/Mark/Documents/Udacity/keyboard-shortcuts/start.html",
+		"/C/Users/Mark/Documents/Udacity/writing-selectors/index.html",
+		"/C/Users/Mark/Documents/Udacity/practice-keyboard-shortcuts/index.html",
+		"/C/Users/Mark/Documents/Udacity/keyboard-shortcuts/finish.html",
+		"/C/Users/Mark/Documents/Udacity/link-to-a-stylesheet/index.html",
+		"/C/Users/Mark/Documents/Udacity/mockup-to-article/mockup-to-article/index.html",
+		"/C/Users/Mark/Documents/Udacity/web-dev-blog/index.html",
+		"/C/Users/Mark/Documents/Udacity/tree-to-html/index.html",
+		"/C/Users/Mark/Documents/Udacity/figures/index.html",
+		"/C/Users/Mark/Documents/Udacity/headers/index.html",
+		"/C/Users/Mark/Documents/Udacity/lists/index.html",
+		"/C/wamp64/www/portfolio/wp-content/themes/portfolio-child/style.css",
+		"/C/Users/Mark/Documents/Udacity/index.html",
+		"/E/Web Courses Bangkok/Class Work/Craft beer/style.css",
+		"/C/wamp64/www/portfolio/wp-content/themes/portfolio-child/footer.php",
+		"/C/wamp64/www/portfolio/wp-content/themes/Divi/sidebar-footer.php",
+		"/C/wamp64/www/portfolio/wp-content/themes/Divi/footer.php",
+		"/C/Users/Mark/Desktop/Beginner web portfolio/index.html",
+		"/C/Users/Mark/Desktop/Beginner web portfolio/style.css",
+		"/C/wamp64/www/la-pizzeria/wp-content/themes/lapizzeria/JS/scripts.js",
+		"/C/wamp64/www/la-pizzeria/wp-content/themes/lapizzeria/functions.php",
+		"/C/wamp64/www/la-pizzeria/wp-content/themes/lapizzeria/style.css",
+		"/C/wamp64/www/portfolio/wp-admin/php.ini",
+		"/C/wamp64/www/around-the-moat/wp-content/themes/extra-child/style.css",
+		"/C/wamp64/www/around-the-moat/wp-content/themes/extra-child/page.php",
+		"/C/wamp64/www/around-the-moat/wp-content/themes/extra-child/page-template-authors.php",
+		"/C/wamp64/www/around-the-moat/wp-content/themes/extra-child/single-post.php",
+		"/C/wamp64/www/around-the-moat/wp-content/themes/extra-child/index.php",
+		"/C/wamp64/www/around-the-moat/wp-content/themes/extra-child/advps-style.css",
+		"/C/wamp64/www/around-the-moat/wp-content/themes/extra-child/style2.css",
+		"/C/wamp64/www/around-the-moat/wp-content/themes/extra-child/header.php",
+		"/C/wamp64/www/around-the-moat/wp-content/themes/extra-child/module-posts-content.php",
+		"/C/wamp64/www/around-the-moat/wp-content/themes/extra-child/home.php",
+		"/C/wamp64/www/la-pizzeria/wp-content/themes/lapizzeria/single.php",
+		"/C/wamp64/www/la-pizzeria/wp-content/themes/lapizzeria/index.php",
+		"/C/wamp64/www/la-pizzeria/wp-content/themes/lapizzeria/page.php",
+		"/C/wamp64/www/la-pizzeria/wp-content/themes/lapizzeria/sidebar.php",
+		"/C/wamp64/www/la-pizzeria/wp-content/themes/lapizzeria/header.php",
+		"/C/wamp64/www/la-pizzeria/wp-content/themes/lapizzeria/single-specialties.php",
+		"/C/wamp64/www/la-pizzeria/wp-content/themes/lapizzeria/our-menu.php",
+		"/C/wamp64/www/la-pizzeria/wp-content/themes/lapizzeria/footer.php",
+		"/C/wamp64/www/la-pizzeria/wp-content/themes/lapizzeria/page-about-us.php",
+		"/C/wamp64/www/la-pizzeria/wp-content/themes/lapizzeria/page about-us.php",
+		"/C/wamp64/www/la-pizzeria/wp-content/themes/lapizzeria/front-page.php",
+		"/C/wamp64/www/la-pizzeria/wp-content/themes/lapizzeria/CSS/normalize.css",
+		"/C/wamp64/www/la-pizzeria/wp-content/themes/lapizzeria/normalize.css",
+		"/C/wamp64/www/la-pizzeria/wp-config.php",
+		"/D/Wordpress theme development/PHP_Introduction-master/PHP_Introduction-master/13_functions.php",
+		"/D/Wordpress theme development/PHP_Introduction-master/PHP_Introduction-master/15_template_tags.php",
+		"/D/Wordpress theme development/PHP_Introduction-master/PHP_Introduction-master/14_fun_args.php",
+		"/D/Wordpress theme development/PHP_Introduction-master/PHP_Introduction-master/11_while.php",
+		"/D/Wordpress theme development/PHP_Introduction-master/PHP_Introduction-master/12_functions.php",
+		"/D/Wordpress theme development/PHP_Introduction-master/PHP_Introduction-master/08_html.php",
+		"/D/Wordpress theme development/PHP_Introduction-master/PHP_Introduction-master/05_arrays.php",
+		"/D/Wordpress theme development/PHP_Introduction-master/PHP_Introduction-master/07_vardump.php",
+		"/D/Wordpress theme development/PHP_Introduction-master/PHP_Introduction-master/02_echo.php",
+		"/D/Wordpress theme development/PHP_Introduction-master/PHP_Introduction-master/04_conditions.php",
+		"/D/Wordpress theme development/PHP_Introduction-master/PHP_Introduction-master/03_variables.php",
+		"/D/Wordpress theme development/PHP_Introduction-master/PHP_Introduction-master/00_starter.php",
+		"/D/Wordpress theme development/PHP_Introduction-master/PHP_Introduction-master/01_phpblock.php",
+		"/C/wamp64/www/around-the-moat/wp-content/themes/Extra/style.css",
+		"/C/wamp64/www/around-the-moat/wp-content/plugins/advanced-post-slider/advanced-post-slider.php",
+		"/C/wamp64/www/around-the-moat/wp-content/plugins/bloom/css/style.css",
+		"/C/wamp64/www/around-the-moat/wp-content/themes/Extra/header.php",
+		"/C/wamp64/www/around-the-moat/wp-content/themes/Extra/functions.php",
+		"/C/wamp64/www/around-the-moat/wp-content/themes/extra-child/functions.php",
+		"/C/wamp64/www/around-the-moat/wp-content/themes/extra-child/footer.php",
+		"/C/wamp64/www/around-the-moat/wp-content/themes/extra-child/module-posts.php",
+		"/C/wamp64/www/around-the-moat/wp-content/themes/Extra/page-template-authors.php",
+		"/C/wamp64/www/around-the-moat/wp-content/themes/Extra/page.php",
+		"/C/wamp64/www/around-the-moat/wp-content/themes/extra-child/index-content.php",
+		"/C/wamp64/www/around-the-moat/wp-content/themes/Extra/home.php",
+		"/C/wamp64/www/around-the-moat/wp-content/plugins/advanced-post-slider/advps-style.css",
+		"/C/wamp64/www/around-the-moat/index.php",
+		"/E/Mark Happy Cafe - coding/index.html",
+		"/C/Users/Mark/AppData/Local/Temp/Temp1_1-Page-Layout.zip/1 Page Layout/Free 1 Page Layout.json",
+		"/C/wamp64/www/around-the-moat/.htaccess",
+		"/E/Mark Happy Cafe - coding/style.css",
+		"/E/bootstrap simple/index.html",
+		"/E/bootstrap simple/css/style.css",
+		"/E/Font play/style.css",
+		"/E/bootstrap simple/style.css",
+		"/E/Simple portfolio/style.css",
+		"/E/Simple portfolio/index.html"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 138.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 35.0
+	},
+	"input":
+	{
+		"height": 43.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 243.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
