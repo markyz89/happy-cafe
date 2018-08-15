@@ -596,6 +596,9 @@ blockquote img {
     background: #a1905e;
     border-color: #807247;
 }
+.navbar-toggle .icon-bar {
+		 background-color: #fff;
+	}
 }
 
 
